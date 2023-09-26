@@ -2,11 +2,6 @@
 * Collaborators: Luis Osorio, Richard Diazdeleon, Victor Chen
 * Date: September 5, 2023
   
-{::comment}
-picture implementation
-![alt text](corr_matrix.png)
-{:/comment}
-
 <img src="corr_matrix.png" width= 600 height=300>
 
 ## Introduction
