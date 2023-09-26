@@ -1,8 +1,6 @@
 ## Project1: Regression Analysis of Housing Prices
 * Collaborators: Luis Osorio, Richard Diazdeleon, Victor Chen
 * Date: September 5, 2023
-  
-<img src="corr_matrix.png" width= 600 height=300>
 
 ## Introduction
 The project utilizes the USA Housing dataset from Kaggle to analyze various factors affecting housing prices across different cities in the United States. The dataset comprises 5000 rows and 7 columns, featuring variables such as average income, house age, number of rooms, and population. The aim is to identify significant predictors of housing prices, thereby aiding potential homeowners in making informed decisions.
